@@ -1,0 +1,3 @@
+await provider.getBlockNumber()
+const provider = new ethers.providers.AlchemyProvider()
+ethers.version

@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "GatekeeperOneContractAddress",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GatekeeperOne.sol": "GatekeeperOne"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GatekeeperOne.sol": {
+			"keccak256": "0xba2af7ab39c87371e998bb20bfe0e57a33ee859179caa769d8000df9f7ca029b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://45df55acb3688e78d294c606003495ced161c8221babf8ac318389725cb863aa",
+				"dweb:/ipfs/QmUNsvA4JLrgxWX9P78i4ygxWLsdL68qwCmaEwSancczuW"
+			]
+		}
+	},
+	"version": 1
+}
